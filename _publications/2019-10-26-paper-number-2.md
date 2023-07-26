@@ -13,4 +13,3 @@ The high energy consumption of massive multi-input multi-out (MIMO) system has b
 [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9018725)
 
 Recommended citation: K. Chen, J. Yang, X. Ge and Y. Li, "Complex-BP-Neural-Network-based Hybrid Precoding for Millimeter Wave Multiuser Massive MIMO Systems," 2019 Computing, Communications and IoT Applications (ComComAp), Shenzhen, China, 2019, pp. 100-105, doi: 10.1109/ComComAp46287.2019.9018725.
-
